@@ -1,8 +1,8 @@
 # Engineering Manager Toolkit
 
-**Six skills for EMs who manage delivery, people, and stakeholders without the fluff.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For engineering managers: ship reliably, grow your people, and keep leadership aligned.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
 
-A curated set of skills for engineering managers covering the recurring high-stakes work: debt prioritization, retrospectives, hiring, status communication, performance reviews, and team health. Each skill is opinionated, evidence-based, and built for a real team context, not a textbook.
+The operating system for running an engineering team without dropping a ball. Reach for it when the manager job gets real: defending debt investment to leadership, running retros that actually close, hiring without bias, writing reviews that hold up in calibration, catching morale and delivery drift before it shows in attrition, and turning a chaotic week into an exec update that takes 90 seconds to read. Every skill is opinionated and evidence-based, built for a real team under real pressure — not a textbook on management theory.
 
 ⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
