@@ -14,14 +14,14 @@ The operating system for running an engineering team without dropping a ball. Re
 
 ## Skills in this pack
 
-- **[Tech Debt Prioritizer](skills/tech-debt-prioritizer/SKILL.md)** — Inventory and prioritize tech debt by cost-of-delay and leverage.
-- **[Sprint Retro Facilitator](skills/sprint-retro-facilitator/SKILL.md)** — Facilitates a sprint retrospective that surfaces real issues and produces owned, specific actions.
-- **[Hiring Scorecard Builder](skills/hiring-scorecard/SKILL.md)** — Builds a structured interview scorecard tied to role-specific signals.
-- **[Eng Status Rollup](skills/eng-status-rollup/SKILL.md)** — Rolls up team engineering status into a concise exec-ready update covering progress, risks, and asks.
+- **[Tech Debt Prioritizer](skills/tech-debt-prioritizer/SKILL.md)** — Inventories tech debt and ranks it economically — scoring each item 1-3 on cost of delay (the interest rate) and leverage (the principal unblocked), multiplying into a priority index, and packaging the winners into a leadership proposal framed on business impact.
+- **[Sprint Retro Facilitator](skills/sprint-retro-facilitator/SKILL.md)** — Structures and facilitates sprint retrospectives with a timeboxed agenda, format selection, anti-blame ground rules, and owned action items that actually close.
+- **[Hiring Scorecard Builder](skills/hiring-scorecard/SKILL.md)** — Builds structured interview scorecards tied to role-specific signals to reduce bias and improve calibration.
+- **[Eng Status Rollup](skills/eng-status-rollup/SKILL.md)** — Rolls up engineering team status into an exec-ready written update with exactly three sections — progress in outcomes, risks with likelihood and mitigation, and asks with owners and deadlines — scannable in under 90 seconds.
 - **[Performance Review Writer](skills/performance-review-writer/SKILL.md)** — Writes fair, specific, evidence-based performance reviews and ratings.
-- **[Team Health Check](skills/team-health-check/SKILL.md)** — Assesses team health across delivery, morale, and clarity dimensions and surfaces actionable signals.
-- **[1:1 Agenda](skills/1on1-agenda/SKILL.md)** — Structures 1:1 meeting agendas — career, current work, feedback, and growth over time.
-- **[Feedback Writer](skills/feedback-writer/SKILL.md)** — Delivers feedback using SBI (Situation-Behavior-Impact) that is specific, actionable, and kind.
+- **[Team Health Check](skills/team-health-check/SKILL.md)** — Assesses a team's health across three independent dimensions — delivery, morale, and clarity — using observable signals from the last 8 weeks, then maps each red or yellow signal to one manager action with a 2-week horizon.
+- **[1:1 Agenda](skills/1on1-agenda/SKILL.md)** — Structures recurring manager-report 1:1s with a rolling shared agenda that balances check-in, blockers, two-way feedback, and career growth instead of status updates.
+- **[Feedback Writer](skills/feedback-writer/SKILL.md)** — Drafts specific, observable, kind workplace feedback using the SBI model — Situation, Behavior, Impact — for both praise and correction.
 
 ## License
 
