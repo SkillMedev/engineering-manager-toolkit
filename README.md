@@ -9,7 +9,7 @@ The operating system for running an engineering team without dropping a ball. Re
 ## Install
 
 - **From the catalog:** [skillme.dev/pack/engineering-manager-toolkit](https://skillme.dev/pack/engineering-manager-toolkit) — install the whole pack into Claude in one step.
-- **With the skills CLI:** `npx skills add aouellets/engineering-manager-toolkit`
+- **With the skills CLI:** `npx skills add SkillMedev/engineering-manager-toolkit`
 - **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
 
 ## Skills in this pack
