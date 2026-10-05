@@ -1,16 +1,17 @@
 # Engineering Manager Toolkit
 
-**For engineering managers: ship reliably, grow your people, and keep leadership aligned.** — built in-house by [Skill&nbsp;Me](https://skillme.dev).
+**For engineering managers: ship reliably, grow your people, and keep leadership aligned.** — built in-house by [Skill&nbsp;Me](https://skillme.dev/?utm_source=github&utm_medium=readme&utm_campaign=pack-engineering-manager-toolkit).
 
 The operating system for running an engineering team without dropping a ball. Reach for it when the manager job gets real: defending debt investment to leadership, running retros that actually close, hiring without bias, writing reviews that hold up in calibration, catching morale and delivery drift before it shows in attrition, and turning a chaotic week into an exec update that takes 90 seconds to read. Every skill is opinionated and evidence-based, built for a real team under real pressure - not a textbook on management theory.
 
-⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
-
 ## Install
 
-- **From the catalog:** [skillme.dev/pack/engineering-manager-toolkit](https://skillme.dev/pack/engineering-manager-toolkit) — install the whole pack into Claude in one step.
+- **Claude, ChatGPT, Codex, Cursor (connector):** [install the whole pack from skillme.dev](https://skillme.dev/pack/engineering-manager-toolkit?utm_source=github&utm_medium=readme&utm_campaign=pack-engineering-manager-toolkit) — one connection, then ask for any skill by name.
+- **As files for Codex, Cursor, or Claude Code:** `npx @skillme/cli add tech-debt-prioritizer sprint-retro-facilitator hiring-scorecard eng-status-rollup performance-review-writer team-health-check 1on1-agenda feedback-writer --target all`
 - **With the skills CLI:** `npx skills add SkillMedev/engineering-manager-toolkit`
-- **Manually:** copy any `skills/<slug>/SKILL.md` into your Claude skills directory.
+- **Manually:** copy any `skills/<slug>/SKILL.md` into `.agents/skills/`, `.cursor/skills/`, or `.claude/skills/`.
+
+⭐ **If this is useful, star the repo** — it's how we gauge what to build next.
 
 ## Skills in this pack
 
@@ -26,4 +27,4 @@ The operating system for running an engineering team without dropping a ball. Re
 ## License
 
 MIT — see [LICENSE](LICENSE). Skills are portable `SKILL.md` files; the canonical
-copies live in the [Skill&nbsp;Me catalog](https://skillme.dev).
+copies live in the [Skill&nbsp;Me catalog](https://skillme.dev/browse?utm_source=github&utm_medium=readme&utm_campaign=pack-engineering-manager-toolkit).
